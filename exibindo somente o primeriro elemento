@@ -1,0 +1,2 @@
+let listaDeNomes = ["Carlos", "Anna", "Alice"];
+    console.log(listaDeNomes[0])
