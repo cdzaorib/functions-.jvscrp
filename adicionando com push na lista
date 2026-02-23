@@ -1,0 +1,2 @@
+let linguagensDeProgramacao = ["JavaScript", "Python", "Java", "C#", "Ruby"];
+linguagensDeProgramacao.push("Kotlin", "Golang", "C++");
